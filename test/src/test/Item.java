@@ -8,7 +8,7 @@ public double getPrice() {
 	return Price;
 }
 public int getQuantity() {
-	return Quantity;
+	return 3;
 }
 public void setPrice(double price) {
 	Price = price;
