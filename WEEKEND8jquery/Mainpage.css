@@ -1,0 +1,150 @@
+.form {
+  background-color: #fbfbfb;
+  float: left;
+  text-align: center;
+  border-radius: 10px;
+  border: 2px solid #00040c;
+  padding: 30px;
+  display:none;
+   
+   }
+ h3{
+  text-align:center;
+  padding-bottom: 20px;
+ }
+   
+  .form_group {
+     padding-bottom: 10px;
+     height: 30px;
+ 
+ }  
+  
+ .form input {
+      
+  background: #f2f2f2;
+  border-radius: 10px;
+  float: right;
+  font-size: 14px;
+  background: #0f264457;
+  width: 150px;
+  
+   
+ }
+
+ 
+ .form1{
+  background-color: #fbfbfb;
+  float: right;
+  text-align: center;
+  border-radius: 10px;
+  border: 2px solid #00040c;
+  padding: 30px;
+  display:none;
+ }
+ textarea{
+
+  border-radius: 10px;
+  float: right; 
+  background: #0f264457;
+  width: 150px;
+  height:25px ;
+ }
+ .form1 input {
+  background: #f2f2f2;
+  border-radius: 10px;
+  float: right;
+  font-size: 14px;
+  background: #0f264457;
+  width: 150px;
+   
+ }
+ table
+ {
+   border-radius: 5px;
+   background-color:#000000;
+   align:center;
+ }
+ td
+ {
+   text-align: center;
+   padding: 20px;
+
+ }
+ th
+{
+  background: rgb(175, 174, 174);
+  text-align: center;
+  padding: 20px;
+}
+
+  tr:nth-child(odd) {background: #CCC}
+  tr:nth-child(even) {background: #FFF}
+ 
+   
+ 
+  
+
+
+ 
+ .menu_buttons
+ {
+ padding-top:5%;
+ 
+ padding-bottom:5%
+ 
+ }
+ 
+ .menu_buttons input
+ {
+  background: #d6d2cc;
+   color: #0e0d0d;
+  font-size: 20px;
+  border-radius: 5px;
+  margin-left: 60px;
+  padding-left: 35px;
+  padding-right: 35px;
+  border-color: black;
+ }
+ 
+ 
+ select{        
+   background: #0f264457;
+  border-radius: 10px;
+  box-sizing: border-box;
+  font-size: 14px;
+  width: 150px;
+  float: right;}
+ 
+ 
+ 
+ 
+  
+ 
+ label {  
+  float: left;
+  
+  color: #000102;
+  font-size: large;
+
+ }
+ 
+ 
+ .container1 {  
+   
+   width: 100%;  
+     
+ } 
+
+
+ 
+    
+ body {
+   
+   font-family: "Roboto", sans-serif;
+   background: #d6d2cc;
+   
+  
+  
+ }
+ 
+ 
